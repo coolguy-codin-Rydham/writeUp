@@ -27,6 +27,7 @@ export default function Navbar() {
             setUser(null);
             navigate("/auth/login");
         } catch (_error) {
+            console.log(_error)
             toast.error("Failed to log out");
         }
     };
