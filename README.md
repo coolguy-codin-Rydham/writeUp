@@ -1,4 +1,4 @@
-# Writeup
+# WriteUp
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -23,11 +23,11 @@ This is a MERN stack application developed as a college project. The app allows 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/coolguy-codin-Rydham/writeup
+    git clone https://github.com/coolguy-codin-Rydham/writeUp
     ```
 2. Navigate to the project directory:
     ```bash
-    cd writeup
+    cd writeUp
     ```
 3. Install server dependencies:
     ```bash
@@ -77,7 +77,7 @@ This is a MERN stack application developed as a college project. The app allows 
 
 ## Folder Structure
 ```
-writeup
+writeUp
 ├── client
 │   ├── src
 │   │   ├── assets
