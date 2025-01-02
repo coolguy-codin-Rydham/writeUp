@@ -1,3 +1,6 @@
+/* eslint-disable react-refresh/only-export-components */
+// Custom hook to manage Theme context dark to light, light to dark
+
 import { createContext, useContext, useEffect, useState } from "react";
 
 type ThemeContextProps = {

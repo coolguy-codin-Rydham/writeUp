@@ -1,3 +1,5 @@
+// Layout pseudo-HOC for the whole app
+
 import Navbar from "@/components/header/Navbar";
 import { Toaster } from "sonner";
 

@@ -1,3 +1,5 @@
+// Aww your own profile page
+
 import Layout from "@/components/Layout";
 import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 import { Button } from "@/components/ui/button";

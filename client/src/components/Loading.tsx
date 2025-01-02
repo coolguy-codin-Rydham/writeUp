@@ -1,3 +1,5 @@
+// When state is loading this bad boy enters the chat hahaha
+
 import { cn } from "@/lib/utils";
 
 export default function LoadingSpinner({

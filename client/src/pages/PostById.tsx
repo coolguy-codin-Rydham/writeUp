@@ -1,3 +1,5 @@
+// page that fetches post by id
+
 import Layout from "@/components/Layout";
 import LoadingSpinner from "@/components/Loading";
 import { Avatar, AvatarFallback } from "@/components/ui/avatar";

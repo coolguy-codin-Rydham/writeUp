@@ -1,3 +1,6 @@
+// Component for user to see when it clicks on the link sent in email.
+// If user sees this it marks the email has been verified
+
 import { Button } from "@/components/ui/button";
 import {
     Card,

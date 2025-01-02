@@ -1,3 +1,5 @@
+// The whole toolbar for the TipTap styled with lucide-icons read doc here https://lucide.dev/guide/installation
+
 import { Button } from "@/components/ui/button";
 import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group";
 import { cn } from "@/lib/utils";

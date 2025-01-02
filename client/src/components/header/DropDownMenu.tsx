@@ -1,3 +1,5 @@
+// Dropdown menu for the Navbar component
+
 import {
     DropdownMenu,
     DropdownMenuContent,

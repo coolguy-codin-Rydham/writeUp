@@ -1,3 +1,4 @@
+// Protected component for routes where login is must
 import { EmailVerificationBanner } from "@/components/email/EmailVerificationBanner";
 import { useAuth } from "@/context/useAuth";
 

@@ -1,3 +1,6 @@
+// The email verification banner for non-verified users
+// Presents when a user is trying to access a route wrapped in protected component, and the user email is not email verified.
+
 import { Button } from "@/components/ui/button";
 import { useAuth } from "@/context/useAuth";
 import axios from "axios";

@@ -1,3 +1,5 @@
+// App entry point
+
 import Layout from "@/components/Layout";
 import BlogCard from "@/components/post/BlogCard";
 import FeaturedPost from "@/components/post/FeaturedPost";

@@ -1,3 +1,5 @@
+// page to create new page
+
 import Layout from "@/components/Layout";
 import Tiptap from "@/components/editor/TipTap";
 import { Button } from "@/components/ui/button";

@@ -1,3 +1,8 @@
+// Post creating canvas
+// Uses a third party library TipTap
+// Quite easy to use must refer docs at https://www.npmjs.com/package/@tiptap/react
+
+
 import Toolbar from "@/components/editor/ToolBar";
 import Underline from "@tiptap/extension-underline";
 import { EditorContent, useEditor } from "@tiptap/react";

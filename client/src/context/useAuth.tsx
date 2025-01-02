@@ -1,3 +1,5 @@
+// Custom hook for handling auth context, the initial fetch, the user data and all things related to auth
+
 import LoadingSpinner from "@/components/Loading";
 import type { User } from "@/types";
 import axios, { AxiosError } from "axios";
@@ -57,6 +59,7 @@ export function AuthProvider({
     );
 }
 
+// eslint-disable-next-line react-refresh/only-export-components
 export function useAuth() {
     const context = useContext(AuthContext);
     if (context === undefined) {

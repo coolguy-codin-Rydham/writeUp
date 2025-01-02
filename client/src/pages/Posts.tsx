@@ -1,3 +1,5 @@
+// page that have all your posts
+
 import Layout from "@/components/Layout";
 import BlogCard from "@/components/post/BlogCard";
 import { PostSearch } from "@/components/post/PostSearch";

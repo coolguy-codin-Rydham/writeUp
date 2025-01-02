@@ -1,3 +1,5 @@
+// Dark mode wooooshh
+
 import { Button } from "@/components/ui/button";
 import { useTheme } from "@/context/useTheme";
 import { Moon, Sun } from "lucide-react";

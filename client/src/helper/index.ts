@@ -1,3 +1,5 @@
+// Helper function handling api calls to serve to the query
+
 import type { LoginForm, Post, PostComments, PostForm, SearchParams, SignupForm } from "@/types";
 import axios from "axios";
 

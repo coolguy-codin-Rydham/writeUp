@@ -1,3 +1,5 @@
+// page to show all your posts
+
 import Layout from "@/components/Layout";
 import LoadingSpinner from "@/components/Loading";
 import Tiptap from "@/components/editor/TipTap";

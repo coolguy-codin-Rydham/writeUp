@@ -1,3 +1,5 @@
+// Reading time calculation logic
+
 export function stripHtmlAndTruncate(content: string) {
     return content.replace(/<\/?[^>]+(>|$)/g, "");
 }

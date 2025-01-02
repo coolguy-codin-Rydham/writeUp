@@ -1,3 +1,6 @@
+// Navbar component
+
+
 import ModeToggle from "@/components/header/ModeToggle";
 import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 import { Button } from "@/components/ui/button";

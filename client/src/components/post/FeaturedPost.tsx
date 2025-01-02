@@ -1,3 +1,5 @@
+// The featured post to show on the home page of the app
+
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import type { BlogCardProps } from "@/types";
 import { stripHtmlAndTruncate } from "@/utils";

@@ -1,3 +1,7 @@
+// Typescript(kinda hate it for this extra reason)
+// This zod schema for all the possible requests
+
+
 import { z } from "zod";
 
 export interface Post {
