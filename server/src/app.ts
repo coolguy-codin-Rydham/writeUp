@@ -27,7 +27,7 @@ app.use((req: Request, res: Response, next: NextFunction) => {
 });
 
 app.get("/", (req: Request, res: Response) => {
-  res.status(200).send("Hello World");
+  res.status(200).send(ALLOWED_ORIGINS);
 });
 
 app.use("/api", userRoutes);
