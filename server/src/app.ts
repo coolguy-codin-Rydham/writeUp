@@ -1,3 +1,5 @@
+// App entry logic
+
 import cookieParser from "cookie-parser";
 import cors from "cors";
 import express, { type Request, type Response, type NextFunction } from "express";

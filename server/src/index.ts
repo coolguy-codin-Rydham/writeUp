@@ -1,3 +1,5 @@
+// app entry point
+
 import { app } from "./app";
 import { PORT } from "./config/config";
 import { dbconnect } from "./config/db";

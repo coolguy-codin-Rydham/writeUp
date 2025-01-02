@@ -1,3 +1,5 @@
+// TS types for whole app
+
 export interface JwtPayload {
   id: string;
   email: string;

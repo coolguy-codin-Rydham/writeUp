@@ -1,3 +1,5 @@
+// Mongoose model for category db
+
 import mongoose from "mongoose";
 
 const categorySchema = new mongoose.Schema({

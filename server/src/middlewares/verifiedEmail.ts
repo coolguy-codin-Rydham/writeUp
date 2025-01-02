@@ -1,3 +1,5 @@
+// Check email verification middleware
+
 import type { NextFunction, Request, Response } from "express";
 import { User } from "../models";
 import ApiError from "../utils/apiError";

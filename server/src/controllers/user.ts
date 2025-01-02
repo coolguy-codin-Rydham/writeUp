@@ -1,3 +1,5 @@
+// User Controller
+
 import bcrypt from "bcrypt";
 import type { Request, Response } from "express";
 import { z } from "zod";

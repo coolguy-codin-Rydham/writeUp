@@ -1,3 +1,5 @@
+// posts router
+
 import express from "express";
 const router = express.Router();
 import { createPost, deletePost, getPost, likePost, searchPosts, updatePost } from "../controllers/post";

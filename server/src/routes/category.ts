@@ -1,3 +1,5 @@
+// catrgory router
+
 import express from "express";
 import {
   createCategory,

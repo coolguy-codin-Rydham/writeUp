@@ -1,3 +1,5 @@
+// db connection config
+
 import mongoose from "mongoose";
 
 export const dbconnect = async () => {

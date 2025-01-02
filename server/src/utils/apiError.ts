@@ -1,3 +1,5 @@
+// Standard api error class
+
 class ApiError extends Error {
   public readonly statusCode: number;
   public readonly isOperational: boolean;

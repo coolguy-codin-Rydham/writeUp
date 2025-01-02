@@ -1,3 +1,5 @@
+// Category controller only for admin routes
+
 import type { Request, Response } from "express";
 import { z } from "zod";
 import { Category } from "../models";

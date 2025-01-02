@@ -1,3 +1,5 @@
+// Zod validation schemas
+
 import { z } from "zod";
 
 export const userSchema = z.object({

@@ -1,3 +1,5 @@
+// user router
+
 import express from "express";
 import { getUserPosts } from "../controllers/post";
 import { checkAuth, resendVerificationEmail, signin, signout, signup, verifyEmail } from "../controllers/user";

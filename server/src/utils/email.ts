@@ -1,3 +1,5 @@
+// Email utility
+
 import nodemailer from "nodemailer";
 import { CLIENT_URL, EMAIL_PASSWORD, EMAIL_USER } from "../config/config";
 

@@ -1,3 +1,5 @@
+// comments router
+
 import express from "express";
 import { createComment, getAllComments } from "../controllers/comments";
 import { auth } from "../middlewares/auth";

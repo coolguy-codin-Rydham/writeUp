@@ -1,3 +1,5 @@
+// Error and other helper functions
+
 import type { Response } from "express";
 import jwt from "jsonwebtoken";
 import type mongoose from "mongoose";

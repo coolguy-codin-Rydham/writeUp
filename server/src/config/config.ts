@@ -1,3 +1,5 @@
+// Zod check for env variable
+
 import dotenv from "dotenv";
 import { z } from "zod";
 

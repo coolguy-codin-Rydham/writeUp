@@ -1,3 +1,5 @@
+// Iinital and final setup for tests
+
 import { MongoMemoryServer } from "mongodb-memory-server";
 import mongoose from "mongoose";
 import { afterAll, afterEach, beforeAll } from "vitest";

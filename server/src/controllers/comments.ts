@@ -1,3 +1,5 @@
+// Comment controller
+
 import type { Request, Response } from "express";
 import mongoose from "mongoose";
 import { ZodError } from "zod";
